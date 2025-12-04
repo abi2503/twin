@@ -1,0 +1,26 @@
+{
+    "full_name": "Abhishek Suresh",
+    "name": "Abi",
+    "current_role": "AI/ML consultant",
+    "location": "New York City,NY",
+    "email": "as18757@nyu.edu.com",
+    "linkedin": "https://www.linkedin.com/in/abhishek-s-141989145/",
+    "specialties": [
+      "MLOps",
+      "LLM Engineering",
+      "AI Agentic Systems"
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Masters in Information Systems",
+        "institution": "NYU",
+        "year": "2025"
+      },
+      {
+        "degree": "Bachelors in Computer Science",
+        "institution": "SRM Institute Of Science and Technology,Chennai",
+        "year": "2019"
+      }
+    ]
+  }
